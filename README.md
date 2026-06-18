@@ -66,7 +66,9 @@ roll-picker/
     └── data/
         └── pastelColors.js
 ```
+![Project Screenshot](https://github.com/AmitTamas/randomizer/blob/964c6aab4594760d1ac46b994018705c1dd0354c/randomizer-pic-1.png)
 
+![Project Screenshot](https://github.com/AmitTamas/randomizer/blob/964c6aab4594760d1ac46b994018705c1dd0354c/randomizer-pic-2.png)
 ## Component-by-component explanation
 
 **`App.jsx`** — Wires everything together. Holds the `DndContext`, owns the
